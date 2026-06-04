@@ -1,6 +1,5 @@
 package _Day_1_Challenge;
 
-import java.util.Iterator;
 
 public class Question5 {
 
@@ -16,9 +15,5 @@ public class Question5 {
 			}
 		}
 		System.out.println(min);
-				
-		
-
 	}
-
 }
