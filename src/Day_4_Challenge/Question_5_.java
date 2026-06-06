@@ -6,6 +6,7 @@ import java.util.List;
 public class Question_5_ {
 
 	public static void main(String[] args) {
+		
 		List<Integer> salaries =Arrays.asList(40000,30000,50000,3000);
 		
 		Integer highestSalary=salaries.stream()
